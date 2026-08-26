@@ -10,4 +10,4 @@ Join our Discord -> https://discord.gg/wCvA2XqPUT
 
 ### Project Status
 
-See each repository for its status. Right now we are 10% done BFME 1. Contributions welcome
+See each repository for its status. Right now we are 40% done BFME 1. All possible from the Open-BFME contributors ❤️
