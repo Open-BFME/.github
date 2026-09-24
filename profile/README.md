@@ -10,4 +10,8 @@ Join our Discord -> https://discord.gg/wCvA2XqPUT
 
 ### Project Status
 
-See each repository for its status. Right now we are 70% done BFME 1 and 25% done BFME 2. All possible from the Open-BFME contributors ❤️
+As of last updating this page, we are 70% done BFME 1 and 25% done BFME 2.
+
+We have also made https://bfmeladder.com/ fully functional on Linux, reduced BFME 1 lag, and have a [mostly-working port](https://github.com/beanagrammer/bfme-macos) of BFME to Intel and ARM Macbooks.
+
+All possible from the Open-BFME contributors ❤️
